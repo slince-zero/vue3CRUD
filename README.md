@@ -21,6 +21,8 @@
     npm i 
     npm run dev
 
+    npx prisma db push  // 这一步是向数据库中新建表
+
 
 ## 项目预览
 
